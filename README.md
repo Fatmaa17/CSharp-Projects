@@ -6,7 +6,7 @@ Welcome to my C# Projects repository! This repository contains various C# projec
 
 ### Level A Exercises - Basics
 
-#### 1. Task Tracker
+#### [Task Tracker](Level%20A%20Exercises%20-%20Basics/TaskTracker)
 - **Description**: A simple console application for managing and tracking tasks.
 - **Features**:
   - Add new tasks
@@ -16,8 +16,8 @@ Welcome to my C# Projects repository! This repository contains various C# projec
 - **Technologies**: C#
 - **Status**: Completed
 
-- **Level A Exercises - Basics**: Contains beginner-level exercises and projects.
-  - **Task Tracker**: The Task Tracker project with its source code and related files.
+- **[Level A Exercises - Basics](Level%20A%20Exercises%20-%20Basics)**: Contains beginner-level exercises and projects.
+  - **[Task Tracker](Level%20A%20Exercises%20-%20Basics/TaskTracker)**: The Task Tracker project with its source code and related files.
 
 Feel free to explore the code, provide feedback, or contribute!
 
