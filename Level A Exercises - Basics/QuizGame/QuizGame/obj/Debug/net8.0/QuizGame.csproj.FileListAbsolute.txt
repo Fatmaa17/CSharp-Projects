@@ -1,0 +1,15 @@
+C:\Users\fatma\Desktop\C#\Projects\Level A Exercises - Basics\QuizGame\QuizGame\bin\Debug\net8.0\QuizGame.exe
+C:\Users\fatma\Desktop\C#\Projects\Level A Exercises - Basics\QuizGame\QuizGame\bin\Debug\net8.0\QuizGame.deps.json
+C:\Users\fatma\Desktop\C#\Projects\Level A Exercises - Basics\QuizGame\QuizGame\bin\Debug\net8.0\QuizGame.runtimeconfig.json
+C:\Users\fatma\Desktop\C#\Projects\Level A Exercises - Basics\QuizGame\QuizGame\bin\Debug\net8.0\QuizGame.dll
+C:\Users\fatma\Desktop\C#\Projects\Level A Exercises - Basics\QuizGame\QuizGame\bin\Debug\net8.0\QuizGame.pdb
+C:\Users\fatma\Desktop\C#\Projects\Level A Exercises - Basics\QuizGame\QuizGame\obj\Debug\net8.0\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma\Desktop\C#\Projects\Level A Exercises - Basics\QuizGame\QuizGame\obj\Debug\net8.0\QuizGame.AssemblyInfoInputs.cache
+C:\Users\fatma\Desktop\C#\Projects\Level A Exercises - Basics\QuizGame\QuizGame\obj\Debug\net8.0\QuizGame.AssemblyInfo.cs
+C:\Users\fatma\Desktop\C#\Projects\Level A Exercises - Basics\QuizGame\QuizGame\obj\Debug\net8.0\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\fatma\Desktop\C#\Projects\Level A Exercises - Basics\QuizGame\QuizGame\obj\Debug\net8.0\QuizGame.sourcelink.json
+C:\Users\fatma\Desktop\C#\Projects\Level A Exercises - Basics\QuizGame\QuizGame\obj\Debug\net8.0\QuizGame.dll
+C:\Users\fatma\Desktop\C#\Projects\Level A Exercises - Basics\QuizGame\QuizGame\obj\Debug\net8.0\refint\QuizGame.dll
+C:\Users\fatma\Desktop\C#\Projects\Level A Exercises - Basics\QuizGame\QuizGame\obj\Debug\net8.0\QuizGame.pdb
+C:\Users\fatma\Desktop\C#\Projects\Level A Exercises - Basics\QuizGame\QuizGame\obj\Debug\net8.0\QuizGame.genruntimeconfig.cache
+C:\Users\fatma\Desktop\C#\Projects\Level A Exercises - Basics\QuizGame\QuizGame\obj\Debug\net8.0\ref\QuizGame.dll
