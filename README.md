@@ -17,7 +17,6 @@ Welcome to my C# Projects repository! This repository contains various C# projec
 - **Status**: Completed
 - **Key Concepts**: Applied basic C# programming concepts, including loops and conditional statements.
 
-
 #### [Quiz Game](Level%20A%20Exercises%20-%20Basics/QuizGame)
 - **Description**: A simple console-based quiz game where the player answers multiple-choice questions.
 - **Features**:
@@ -38,10 +37,30 @@ Welcome to my C# Projects repository! This repository contains various C# projec
 - **Status**: Completed
 - **Key Concepts**: Applied multidimensional arrays to store and manage product information.
 
-- **[Level A Exercises - Basics](Level%20A%20Exercises%20-%20Basics)**: Contains beginner-level exercises and projects.
-  - **[Task Tracker](Level%20A%20Exercises%20-%20Basics/TaskTracker)**: The Task Tracker project with its source code and related files.
-  - **[Quiz Game](Level%20A%20Exercises%20-%20Basics/QuizGame)**: The Quiz Game project with its source code and related files.
-- **[Inventory System](Projects/Level%20A%20Project/InventorySystem)**: The Inventory System project with its source code and related files.
+### Level B Exercises - Intermediate
 
+#### [Library System](https://github.com/Fatmaa17/Library-System)
+- **Description**: A library management system console application for tracking book information, issuing, and returning books.
+- **Features**:
+  - Add and remove books from the library
+  - Issue and return books
+  - View book inventory
+- **Technologies**: C#
+- **Status**: Completed
+- **Key Concepts**: Applied collections and data structures to manage library data efficiently.
+
+### Level C Exercises - Advanced
+
+#### [Shopping System](https://github.com/Fatmaa17/ShoppingSystem)
+- **Description**: A console application that simulates a shopping experience, allowing users to add, remove, and checkout items in a cart.
+- **Features**:
+  - Add items to cart
+  - Remove items from cart
+  - View cart and checkout
+- **Technologies**: C#
+- **Status**: Completed
+- **Key Concepts**: Applied stacks, dictionaries, and tuples to manage cart operations and undo actions.
+
+---
 Feel free to explore the code, provide feedback, or contribute!
 
