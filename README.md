@@ -37,6 +37,8 @@ Welcome to my C# Projects repository! This repository contains various C# projec
 - **Status**: Completed
 - **Key Concepts**: Applied multidimensional arrays to store and manage product information.
 
+---
+
 ### Level B Exercises - Intermediate
 
 #### [Library System](https://github.com/Fatmaa17/Library-System)
@@ -48,6 +50,18 @@ Welcome to my C# Projects repository! This repository contains various C# projec
 - **Technologies**: C#
 - **Status**: Completed
 - **Key Concepts**: Applied collections and data structures to manage library data efficiently.
+
+#### [Maze Game](https://github.com/Fatmaa17/Maze-Game)
+- **Description**: A console-based maze game where the player navigates through a grid using keyboard arrows.
+- **Features**:
+  - Procedurally generated walls and pathways
+  - Player movement restricted by walls
+  - Simple and interactive gameplay
+- **Technologies**: C#
+- **Status**: Completed
+- **Key Concepts**: Applied object-oriented programming principles, including interfaces, classes, and inheritance.
+
+---
 
 ### Level C Exercises - Advanced
 
@@ -61,6 +75,5 @@ Welcome to my C# Projects repository! This repository contains various C# projec
 - **Status**: Completed
 - **Key Concepts**: Applied stacks, dictionaries, and tuples to manage cart operations and undo actions.
 
----
-Feel free to explore the code, provide feedback, or contribute!
 
+Feel free to explore the code, provide feedback, or contribute!
