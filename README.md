@@ -75,5 +75,23 @@ Welcome to my C# Projects repository! This repository contains various C# projec
 - **Status**: Completed
 - **Key Concepts**: Applied stacks, dictionaries, and tuples to manage cart operations and undo actions.
 
+---
+
+### Level D Exercises - Delegates & Lambdas
+
+#### [Temperature Sensor](https://github.com/Fatmaa17/Temperature-Sensor)
+- **Description**: A console application simulating a temperature sensor system with observer functionality.
+- **Features**:
+  - Set the temperature value
+  - Update alarm threshold values
+  - Displays the current temperature
+  - Raises an alarm if the temperature exceeds the set threshold
+- **Technologies**: C#
+- **Status**: Completed
+- **Key Concepts**:
+  - Implemented the Observer design pattern.
+  - Created custom events and delegates for real-time updates.
+
+---
 
 Feel free to explore the code, provide feedback, or contribute!
